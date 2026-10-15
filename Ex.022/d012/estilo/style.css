@@ -51,6 +51,9 @@ section {
     padding-left: 30px;
     font-size: 3vw;
 }
+section > p {
+    padding-bottom: 1em;
+}
 section.normal {
     background-color: white;
     color: black;
@@ -62,6 +65,12 @@ section.imagem {
 section.imagem > p {
     display: inline-block;
     background-color: black;
+}
+section#img01 {
+
+}
+section#img02 {
+    
 }
 footer {
     background-color: black;
